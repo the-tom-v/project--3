@@ -1,0 +1,18 @@
+{
+  "suppliers": [
+    {
+      "id": "048e",
+      "name": "Jes",
+      "email": "Tom@gmail.com",
+      "mobile": "8574859685",
+      "location": "yut"
+    },
+    {
+      "id": "6993",
+      "name": "Rem",
+      "email": "Remya@gmail.com",
+      "mobile": "598654745",
+      "location": "hty"
+    }
+  ]
+}
